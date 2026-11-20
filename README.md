@@ -59,3 +59,4 @@ ExePropertyDetailChangerSettings の引数の「goRxExePath」と「resourceHack
 
 * GoRC.exe：http://www.godevtool.com/
 * Resource Hacker.exe：http://www.angusj.com/resourcehacker/
+* [Resource Cracker](https://www.pelock.com/products/resource-cracker)
